@@ -5,7 +5,6 @@ import org.springframework.data.jpa.repository.Query;
 /**
  * 
  * @author sharmak
- *
  */
 public interface HolidaysBo extends JpaRepository<PublicHolidays, Integer>{
 	
